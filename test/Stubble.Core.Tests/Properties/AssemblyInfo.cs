@@ -12,7 +12,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Stubble.Core.Tests")]
 [assembly: AssemblyDescription("Tests for Stubble.Core")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Alex McAuliffe")]
+[assembly: AssemblyCompany("UiPath")]
 [assembly: AssemblyProduct("Stubble.Core.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]

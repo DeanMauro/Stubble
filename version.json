@@ -1,7 +1,7 @@
 ﻿{
-  "version": "1.5",
+  "version": "200.5.4",
   "publicReleaseRefSpec": [
-    "^refs/heads/master$", // we release out of master
+    "^refs/heads/master$" // we release out of master
   ],
   "cloudBuild": {
     "buildNumber": {

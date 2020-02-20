@@ -4,6 +4,9 @@
     <TargetFrameworks>net46;netcoreapp2.0</TargetFrameworks>
     <AssemblyName>Stubble.Compilation.Tests</AssemblyName>
     <Platform>Any CPU</Platform>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+    <DelaySign>false</DelaySign>
   </PropertyGroup>
 
   <ItemGroup>
